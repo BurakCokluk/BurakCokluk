@@ -35,7 +35,7 @@
 <!-- 5️⃣ TEKNOLOJİ YIĞINI (İKON SETİ) -->
 ### 🛠️ Teknolojiler
 <p>
-  <img src="https://skillicons.dev/icons?i=python,azure,kubernetes,docker,terraform,ansible,aws,gcp,python,go,rust,solidity,nodejs,react,swift,postgresql,mysql,redis,prometheus,grafana,kibana" />
+  <img src="https://skillicons.dev/icons?i=python,linux,azure,kubernetes,docker,terraform,ansible,aws,gcp,python,go,rust,solidity,nodejs,react,swift,postgresql,mysql,redis,prometheus,grafana" />
 </p>
 
 ---
