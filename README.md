@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
 <!-- 1️⃣ BAŞLIK & KISA TANIM -->
 <h1 align="center">🚀 Burak Çokluk</h1>
 <h3 align="center">Platform Engineer | DevOps Specalist | Blockchain & Web3 Developer</h3>
@@ -82,9 +88,3 @@ Yaşlılara yönelik sağlık asistanı – İlaç/randevu hatırlatıcı, basit
 
 <!-- FOOTER QUOTE -->
 <p align="center"><i>"Hypocrisy is the tribute that vice pays to virtue."</i></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
