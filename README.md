@@ -78,13 +78,6 @@ Yaşlılara yönelik sağlık asistanı – İlaç/randevu hatırlatıcı, basit
 ---
 
 <!-- EKSTRA: GELECEK HEDEFLER -->
-### 🎯 Gelecek Hedeflerim
-- Go & Rust ile yüksek performanslı servisler geliştirmek  
-- Blockchain + AI entegrasyonlu ürünler üretmek  
-- Küresel ölçekte **HA + Observability + Security** projeleri yürütmek  
-- Pasif gelir sağlayacak teknoloji tabanlı iş modelleri oluşturmak
-
----
 
 
 <!-- FOOTER QUOTE -->
