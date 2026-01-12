@@ -7,7 +7,7 @@
 
 <!-- 1️⃣ BAŞLIK & KISA TANIM -->
 <h1 align="center">🚀 Burak Çokluk</h1>
-<h3 align="center">Platform Engineer | & Web3 Developer</h3>
+<h3 align="center">Platform Engineer & Web3 Developer</h3>
 
 <!-- 2️⃣ TYPING BANNER -->
 <p align="center">
